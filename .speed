@@ -3,6 +3,7 @@ TEST_RUNNER::
 ::
 BUILD_COMMANDS::
 - ./gradlew assemble testClasses
+- ./spring-core/gradlew assemble testClasses
 ::
 TEST_PATHS::
 - /spring-core/build/classes/java/

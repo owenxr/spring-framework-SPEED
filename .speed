@@ -2,8 +2,7 @@ TEST_RUNNER::
 - JUnit 5
 ::
 BUILD_COMMANDS::
-- ./gradlew assemble testClasses
-- ./spring-core/gradlew assemble testClasses
+- ./gradlew build
 ::
 TEST_PATHS::
 - /spring-core/build/classes/java/

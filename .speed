@@ -2,7 +2,7 @@ TEST_RUNNER::
 - JUnit 5
 ::
 BUILD_COMMANDS::
-- ./gradlew -a :spring-core:test
+- ./gradlew build
 ::
 TEST_PATHS::
 - /spring-core/build/classes/java/
